@@ -1027,9 +1027,8 @@ Rishikesh, India.</h7>
                                           </div>
                                           <div class="veshm-list-availabilty">
                                                       <a
-                                                        href="#"
-                                                        data-bs-toggle="modal"
-                                                        data-bs-target="#availability"
+                                                        href="https://rishikeshvisit.com/single-view.php?main_id=<?php echo $row_query4['prop_id']; ?>&main_category=<?php echo $row_query4['category']; ?>"
+                                                    
                                                         class="btn btn-avalability"
                                                         >Request to Book</a>
                                                 </div>
