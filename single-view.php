@@ -1031,7 +1031,7 @@ Rishikesh, India.</h7>
                                                         data-bs-toggle="modal"
                                                         data-bs-target="#availability"
                                                         class="btn btn-avalability"
-                                                        >Request to Book</a>
+                                                        >Read More</a>
                                                 </div>
                                 </div>
                               </div>
